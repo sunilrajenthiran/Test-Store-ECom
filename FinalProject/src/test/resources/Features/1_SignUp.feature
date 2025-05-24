@@ -10,4 +10,4 @@ Feature: User SignUp
 
     Examples: 
       | Gender | FirstName | LastName | Email                        | Password  | BirthDate  | Expected |
-      | Mr     | Sunil     | R        | sunilrajenthiran18@gmail.com | Sunil@123 | 08/13/2003 | Sunil R  |
+      | Mr     | Sunil     | R        | sunilrajenthiran19@gmail.com | Sunil@123 | 08/13/2003 | Sunil R  |
